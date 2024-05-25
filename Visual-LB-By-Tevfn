@@ -1,1 +1,698 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _mJCtWOrWzdjH = a; end)); return(function(u,...)local t;local r;local a;local o;local d;local b;local e=24915;local n=0;local l={};while n<787 do n=n+1;while n<0x1c9 and e%0xce6<0x673 do n=n+1 e=(e+11)%25871 local f=n+e if(e%0x1ff6)>=0xffb then e=(e+0x38)%0x459 while n<0x37f and e%0x11da<0x8ed do n=n+1 e=(e*502)%47381 local f=n+e if(e%0x13ea)>0x9f5 then e=(e-0x1eb)%0x873f local e=53507 if not l[e]then l[e]=0x1 a=string;end elseif e%2~=0 then e=(e*0x192)%0x7ccf local e=69887 if not l[e]then l[e]=0x1 r="\4\8\116\111\110\117\109\98\101\114\120\70\82\122\102\117\83\99\0\6\115\116\114\105\110\103\4\99\104\97\114\98\100\70\121\89\81\112\112\0\6\115\116\114\105\110\103\3\115\117\98\79\99\110\70\86\81\103\100\0\6\115\116\114\105\110\103\4\98\121\116\101\105\86\77\100\100\106\101\90\0\5\116\97\98\108\101\6\99\111\110\99\97\116\102\74\104\71\85\101\118\121\0\5\116\97\98\108\101\6\105\110\115\101\114\116\117\112\99\99\89\108\101\68\5";end else e=(e-0x5f)%0x6835 n=n+1 local e=55242 if not l[e]then l[e]=0x1 d=function(l)local e=0x01 local function n(n)e=e+n return l:sub(e-n,e-0x01)end while true do local l=n(0x01)if(l=="\5")then break end local e=a.byte(n(0x01))local e=n(e)if l=="\2"then e=o.xFRzfuSc(e)elseif l=="\3"then e=e~="\0"elseif l=="\6"then t[e]=function(n,e)return u(8,nil,u,e,n)end elseif l=="\4"then e=t[e]elseif l=="\0"then e=t[e][n(a.byte(n(0x01)))];end local n=n(0x08)o[n]=e end end end end end elseif e%2~=0 then e=(e-0x134)%0xadef while n<0x70 and e%0x218a<0x10c5 do n=n+1 e=(e+534)%42177 local d=n+e if(e%0x115c)>0x8ae then e=(e*0xb0)%0x4b7b local e=25129 if not l[e]then l[e]=0x1 b=tonumber;end elseif e%2~=0 then e=(e-0x19d)%0x5c3e local e=34500 if not l[e]then l[e]=0x1 t=getfenv and getfenv();end else e=(e+0x60)%0x56e9 n=n+1 local e=75448 if not l[e]then l[e]=0x1 t=(not t)and _ENV or t;end end end else e=(e-0xcd)%0x2a78 n=n+1 while n<0x207 and e%0x1ce0<0xe70 do n=n+1 e=(e*660)%46962 local t=n+e if(e%0x482e)>=0x2417 then e=(e*0x2d5)%0x3568 local e=448 if not l[e]then l[e]=0x1 end elseif e%2~=0 then e=(e-0x1e5)%0x3de6 local e=67836 if not l[e]then l[e]=0x1 end else e=(e+0x2c1)%0x84d7 n=n+1 local e=12048 if not l[e]then l[e]=0x1 o={};end end end end end e=(e*140)%33924 end d(r);local n={};for e=0x0,0xff do local l=o.bdFyYQpp(e);n[e]=l;n[l]=e;end local function c(e)return n[e];end local a=(function(f,d)local r,l=0x01,0x10 local n={{},{},{}}local t=-0x01 local e=0x01 local a=f while true do n[0x03][o.OcnFVQgd(d,e,(function()e=r+e return e-0x01 end)())]=(function()t=t+0x01 return t end)()if t==(0x0f)then t=""l=0x000 break end end local t=#d while e<t+0x01 do n[0x02][l]=o.OcnFVQgd(d,e,(function()e=r+e return e-0x01 end)())l=l+0x01 if l%0x02==0x00 then l=0x00 o.upccYleD(n[0x01],(c((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+a)%0x100)));a=f+a;end end return o.fJhGUevy(n[0x01])end);d(a(29,"tM=EXN;7{lHi&_9<9{"));d(a(244,";VemJjA-4ab*YU_BTYV_a-bJb_*VYeY--FUYBaBUlYB-v4&BVJm*j4j4JAIYVaa<4Baa*{*YbBUjUU_bUJ_etbBJ*UYUJJjejjAA-44JAA-e-Bamby*bUU-P4eB*o4VeVjeAe*UjJaJaA4Am-J4-aa-J4jbebAYb*Y-444BUBUVYVYYjm4mYJaA4AYjaAA-4a_bA*4b-aUAY4EBmBVvYVVVjm0eaJ4JVJ_AJAaA-Am4*-j4eaB*Y*a-J4mU_Ba%meTe-mApmmsJBA*Je-V-b-ma-J2JYY*YVUj_YB-UU_mTBZ*VaJ>m__ABVmj-44UAbbjaqbb*jbBAY-YBJB*N*V4eeejmAm*j-AeJ--V4e4BAbaaJijVYYYjUe_4_UabVjVbe4ejmmJ-j*JU-aAj4eaYaV4BJYjbUjUb_4_jBmO-B-BAeUV-majYj-A*MYVaaGa_bV*eYJ*j*VUjB-5:#-Q4B4YhY_J-Jjj4jUA-4J4-4a4gbYbVUVb_*e-Y4YOViVefeNYamAJ4j-Am-eje4*Aj4-beaUY*U--V"));local e=(-15212+(function()local l,e=0,1;(function(e,n)n(e(e and n,n),n(e,e))end)(function(t,n)if l>451 then return n end l=l+1 e=(e-504)%44553 if(e%1962)<=981 then e=(e*354)%49252 return n(n(t,n),n(n,n))else return t end return n end,function(t,n)if l>232 then return t end l=l+1 e=(e*503)%43687 if(e%1686)>843 then e=(e-815)%7711 return n(t(t and n,n),n(n,t))else return t end return n end)return e;end)())local c=o.OBmKaxgo or o.sYyYjxaS;local ne=(getfenv)or(function()return _ENV end);local t=2;local f=4;local ee=1;local d=3;local function z(j,...)local r=a(e,"5L&vl62MHayACOb>M>>W2Hb_6yOOlHC-vHQ>a6by6Awl6>C>2yCM2&Cll&aHCy2LAHv4yHHHjCHl>HMvA&L>aM67AalvAC&6ayLaa2CbMA>>M6y>2yOL6>H>laAL9OaMbayH>%HOayLlHH/^MH6MCalOAOO&2LC;vHAjM61>HM>b6Ab66AC>vAOllyAav2yM&AMHLLHl>CM6>2lLbC2lOyb&M>O_lHC_HCLHaLLvvH>2MLbC6Oa#6>CLlAMKvHA&&MylpOHvsCM6bC&fb>6aOClHMHLOAM&>y29vHOuvvHb2vAH&S&MzbH2tllA>&ayl&AylLyHa12MMHyVMMH>I2H&HCCllAHzMaO&lvMyNLHa,:HHC>HMdbH2LOH6xCH6&ACvJyH&;aCL:HH=3Hy>L2HbI6HOLlHC_vHO2l&y=LHaWubHD>aMqbO2/OC2,CHl_AHv2yH&LaHLlaH:ZMH>/2>bo6aOwlHO6vHAD&HyLLHaB(Ha&>HM/bH2}Ob6kCHlQCyvAyH&LaHLvHHDEMHLqM/b16aO.laCNv>AgvyyALHav?HH&>HM,bH2!by6iCal)AAvTyH&haHLOHH%WMH>^2Hb&6HO76bCkvHA_&ayBLaan7Ha&>HMtbH2LOH6+CHluAHv%yH&{");local n=0;o.SmijHJfD(function()o.sMGgWYtf()n=n+1 end)local function e(l,e)if e then return n end;n=l+n;end local l,n,h=u(0,u,e,r,o.iVMddjeZ);local function a()local l,n=o.iVMddjeZ(r,e(1,3),e(5,6)+2);e(2);return(n*256)+l;end;local s=true;local s=0 local function y()local e=n();local n=n();local d=1;local t=(l(n,1,20)*(2^32))+e;local e=l(n,21,31);local n=((-1)^l(n,32));if(e==0)then if(t==s)then return n*0;else e=1;d=0;end;elseif(e==2047)then return(t==0)and(n*(1/0))or(n*(0/0));end;return o.QRXrntWA(n,e-1023)*(d+(t/(2^52)));end;local m=n;local function _(n)local l;if(not n)then n=m();if(n==0)then return'';end;end;l=o.OcnFVQgd(r,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+s),#l do e=e..o.OcnFVQgd(l,n,n)end return e;end;local m=#o.wvOmrsBe(b('\49.\48'))~=1 local e=n;local function p(...)return{...},o.kaLlUyJB('#',...)end local function g()local e={};local u={};local b={};local s={u,b,nil,e};local e=n()local r={}for t=1,e do local l=h();local n;if(l==0)then n=(h()~=#{});elseif(l==3)then local e=y();if m and o.ouDIZRjP(o.wvOmrsBe(e),'.(\48+)$')then e=o.FsAWfUww(e);end n=e;elseif(l==2)then n=_();end;r[t]=n;end;for b=1,n()do local e=h();if(l(e,1,1)==0)then local o=l(e,2,3);local c=l(e,4,6);local e={a(),a(),nil,nil};if(o==0)then e[d]=a();e[f]=a();elseif(o==#{1})then e[d]=n();elseif(o==j[2])then e[d]=n()-(2^16)elseif(o==j[3])then e[d]=n()-(2^16)e[f]=a();end;if(l(c,1,1)==1)then e[t]=r[e[t]]end if(l(c,2,2)==1)then e[d]=r[e[d]]end if(l(c,3,3)==1)then e[f]=r[e[f]]end u[b]=e;end end;for e=1,n()do b[e-(#{1})]=g();end;s[3]=h();return s;end;local function k(l,e,n)local t=e;local t=n;return b(o.ouDIZRjP(o.ouDIZRjP(({o.SmijHJfD(l)})[2],e),n))end local function le(j,e,h)local function z(...)local a,g,s,k,b,n,r,_,m,y,z,l;local e=0;while-1<e do if e>=3 then if 4>=e then if 4>e then _={};m={...};else y=o.kaLlUyJB('#',...)-1;z={};end else if 6>e then l=u(7);else e=-2;end end else if 0<e then if e>=0 then for l=18,88 do if 2~=e then s=u(6,66,3,17,j);b=p k=0;break;end;n=-41;r=-1;break;end;else s=u(6,66,3,17,j);b=p k=0;end else a=u(6,11,1,35,j);g=u(6,72,2,99,j);end end e=e+1;end;for e=0,y do if(e>=s)then _[e-s]=m[e+1];else l[e]=m[e+1];end;end;local e=y-s+1 local e;local o;local function u(...)while true do end end while true do if n<-40 then n=n+42 end e=a[n];o=e[ee];if 12<=o then if o<=17 then if 15>o then if 13>o then for o=0,3 do if o<2 then if o>-4 then for r=18,74 do if o>0 then h[e[d]]=l[e[t]];n=n+1;e=a[n];break;end;l[e[t]]=(e[d]~=0);n=n+1;e=a[n];break;end;else l[e[t]]=(e[d]~=0);n=n+1;e=a[n];end else if-2<o then repeat if o~=2 then if(l[e[t]]==e[f])then n=n+1;else n=e[d];end;break;end;l[e[t]]=h[e[d]];n=n+1;e=a[n];until true;else if(l[e[t]]==e[f])then n=n+1;else n=e[d];end;end end end else if o~=12 then repeat if o>13 then n=e[d];break;end;l[e[t]]=(e[d]~=0);until true;else l[e[t]]=(e[d]~=0);end end else if 15<o then if o>=15 then for a=42,94 do if 17>o then n=e[d];break;end;local n=e[t]local t,e=b(l[n](c(l,n+1,e[d])))r=e+n-1 local e=0;for n=n,r do e=e+1;l[n]=t[e];end;break;end;else n=e[d];end else l[e[t]]();end end else if o<21 then if 19>o then local n=e[t]local t,e=b(l[n](c(l,n+1,e[d])))r=e+n-1 local e=0;for n=n,r do e=e+1;l[n]=t[e];end;else if 19~=o then l(e[t],e[d]);else h[e[d]]=l[e[t]];end end else if o<22 then do return end;else if o==22 then local t=e[t];local n=l[e[d]];l[t+1]=n;l[t]=n[e[f]];else local e=e[t]l[e]=l[e](c(l,e+1,r))end end end end else if o<=5 then if o<3 then if 1<=o then if-1<o then for a=43,78 do if 1~=o then if(l[e[t]]==e[f])then n=n+1;else n=e[d];end;break;end;if(l[e[t]]==e[f])then n=n+1;else n=e[d];end;break;end;else if(l[e[t]]==e[f])then n=n+1;else n=e[d];end;end else l[e[t]]=h[e[d]];end else if 3<o then if 2~=o then for n=24,79 do if o~=4 then local e=e[t]l[e]=l[e](c(l,e+1,r))break;end;l[e[t]]=h[e[d]];break;end;else local e=e[t]l[e]=l[e](c(l,e+1,r))end else l[e[t]]=(e[d]~=0);end end else if o<9 then if 7<=o then if 7<o then l[e[t]]();else h[e[d]]=l[e[t]];end else do return end;end else if 10>o then local n=e[t];local t=l[e[d]];l[n+1]=t;l[n]=t[e[f]];else if 9<=o then repeat if 11~=o then l(e[t],e[d]);break;end;local o,s,y,j,u;l[e[t]]=h[e[d]];n=n+1;e=a[n];o=e[t];s=l[e[d]];l[o+1]=s;l[o]=s[e[f]];n=n+1;e=a[n];l(e[t],e[d]);n=n+1;e=a[n];o=e[t]y,j=b(l[o](c(l,o+1,e[d])))r=j+o-1 u=0;for e=o,r do u=u+1;l[e]=y[u];end;n=n+1;e=a[n];o=e[t]l[o]=l[o](c(l,o+1,r))n=n+1;e=a[n];l[e[t]]();n=n+1;e=a[n];do return end;until true;else local o,s,y,j,u;l[e[t]]=h[e[d]];n=n+1;e=a[n];o=e[t];s=l[e[d]];l[o+1]=s;l[o]=s[e[f]];n=n+1;e=a[n];l(e[t],e[d]);n=n+1;e=a[n];o=e[t]y,j=b(l[o](c(l,o+1,e[d])))r=j+o-1 u=0;for e=o,r do u=u+1;l[e]=y[u];end;n=n+1;e=a[n];o=e[t]l[o]=l[o](c(l,o+1,r))n=n+1;e=a[n];l[e[t]]();n=n+1;e=a[n];do return end;end end end end end n=1+n;end;end;return z end;local t=0xff;local u={};local a=(1);local d='';(function(n)local l=n local r=0x00 local e=0x00 l={(function(f)if r>0x2e then return f end r=r+1 e=(e+0x76a-f)%0x41 return(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x99);t[2]=(t[2]*(k(function()u()end,c(d))-k(t[1],c(d))))+1;u[a]={};t=t[2];a=a+t;end return true end)'YJgFf'and l[0x2](0x2c5+f))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x65);end return true end)'ybsoe'and l[0x1](f+0x298))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x5b);d={d..'\58 a',d};u[a]=g();a=a+((not o.OTOHcthJ)and 1 or 0);d[1]='\58'..d[1];t[2]=0xff;end return true end)'PtYKW'and l[0x3](f+0x3dd))or f end),(function(d)if r>0x1e then return d end r=r+1 e=(e+0x8cd-d)%0x32 return(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x2b);end return true end)'gyplS'and l[0x2](0x19a+d))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x3a);end return true end)'diQtU'and l[0x1](d+0x298))or(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x9);u[a]=ne();a=a+t;end return true end)'miYza'and l[0x3](d+0x2ac))or d end),(function(o)if r>0x28 then return o end r=r+1 e=(e+0xcbf-o)%0xc return(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x95);end return true end)'RhHAz'and l[0x3](0x2e0+o))or(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xb8);d='\37';t={function()t()end};d=d..'\100\43';end return true end)'lgYng'and l[0x1](o+0x31e))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xa0);end return true end)'DjXFX'and l[0x2](o+0x19a))or o end)}l[0x3](0x1d54)end){};local e=le(c(u));return e(...);end return z((function()local n={}local e=0x01;local l;if o.OTOHcthJ then l=o.OTOHcthJ(z)else l=''end if o.ouDIZRjP(l,o.tJJKSTby)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(e,l,n,t,d,o)local o;if 4>e then if 2<=e then if 0<e then for o=38,70 do if 3~=e then do return 16777216,65536,256 end;break;end;do return l(1),l(4,d,t,n,l),l(5,d,t,n)end;break;end;else do return 16777216,65536,256 end;end else if e==0 then do return l(1),l(4,d,t,n,l),l(5,d,t,n)end;else do return function(n,e,l)if l then local e=(n/2^(e-1))%2^((l-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;end end else if 5>=e then if e>2 then for o=40,64 do if e>4 then local e=t;do return function()local n=l(n,e(e,e),e(e,e));e(1);return n;end;end;break;end;local e=t;local t,d,a=d(2);do return function()local o,r,n,l=l(n,e(e,e),e(e,e)+3);e(4);return(l*t)+(n*d)+(r*a)+o;end;end;break;end;else local e=t;local r,d,t=d(2);do return function()local l,n,o,a=l(n,e(e,e),e(e,e)+3);e(4);return(a*r)+(o*d)+(n*t)+l;end;end;end else if e>=7 then if 5~=e then repeat if 7<e then do return n(e,nil,n);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(e,l,t,d,n)if n then return e[n]elseif d then return e else e[l]=t end end})end until true;else do return n(e,nil,n);end end else do return d[n]end;end end end end),...)
+local nurysium = {}
+
+local tween_service = game:GetService("TweenService")
+local user_input = game:GetService("UserInputService")
+
+local ui = nil
+
+local search_table = {}
+local ui_data = {
+    current_section = "nil"
+}
+
+local function animate_elements(speed: number)
+    ui.Background["functions_frame"].UIListLayout.Padding = UDim.new(0.5, 0)
+
+    tween_service:Create(ui.Background["functions_frame"].UIListLayout, TweenInfo.new(speed, Enum.EasingStyle.Exponential, Enum.EasingDirection.InOut), {
+        Padding = UDim.new(0.02, 0)
+    }):Play()
+end
+
+function nurysium: open()
+    task.delay(0.2, function()
+        ui.Background["functions_frame"].Visible = true
+        ui.Background.Sections.Visible = true
+        ui.Background.Search.Visible = true
+    end)
+
+    tween_service:Create(ui.Background["functions_frame"].UIListLayout, TweenInfo.new(2, Enum.EasingStyle.Exponential, Enum.EasingDirection.InOut), {
+        Padding = UDim.new(0.02, 0)
+    }):Play()
+
+    tween_service:Create(ui.Background.Title, TweenInfo.new(1.5, Enum.EasingStyle.Exponential, Enum.EasingDirection.InOut), {
+        TextTransparency = 0
+    }):Play()
+
+    tween_service:Create(ui.Background, TweenInfo.new(1, Enum.EasingStyle.Exponential, Enum.EasingDirection.InOut), {
+        Size = UDim2.new(0, 655, 0, 325),
+        Position = UDim2.new(0.4, 0, 0.3, 0),
+        BackgroundTransparency = 0
+    }):Play()
+end
+
+
+function nurysium: close()
+    task.delay(0.35, function()
+        ui.Background["functions_frame"].Visible = false
+        ui.Background.Sections.Visible = false
+        ui.Background.Search.Visible = false
+    end)
+
+    tween_service:Create(ui.Background["functions_frame"].UIListLayout, TweenInfo.new(0.5, Enum.EasingStyle.Exponential, Enum.EasingDirection.InOut), {
+        Padding = UDim.new(0.02, 0)
+    }):Play()
+
+    tween_service:Create(ui.Background.Title, TweenInfo.new(0.45, Enum.EasingStyle.Exponential, Enum.EasingDirection.InOut), {
+        TextTransparency = 1
+    }):Play()
+
+    tween_service:Create(ui.Background, TweenInfo.new(1, Enum.EasingStyle.Exponential, Enum.EasingDirection.InOut), {
+        Size = UDim2.new(0, 0, 0, 0),
+        Position = UDim2.new(0.510, 0, 1, 0),
+        BackgroundTransparency = 1
+    }):Play()
+end
+
+function nurysium: init(name: string, is_draggable: boolean, parent)
+    if parent:FindFirstChild(name) then
+        parent:FindFirstChild(name):Destroy()
+    end
+
+    ui = Instance.new("ScreenGui")
+
+    local Background = Instance.new("Frame")
+    local UICorner = Instance.new("UICorner")
+    local Sections = Instance.new("Frame")
+    local UICorner_2 = Instance.new("UICorner")
+    local CornerFix = Instance.new("Frame")
+    local UIGradient = Instance.new("UIGradient")
+    local real_sections = Instance.new("Frame")
+    local UIListLayout = Instance.new("UIListLayout")
+    local UIGradient_2 = Instance.new("UIGradient")
+    local logo = Instance.new("ImageButton")
+    local UIGradient_3 = Instance.new("UIGradient")
+    local Title = Instance.new("TextLabel")
+    local functions_frame = Instance.new("ScrollingFrame")
+    local UIPadding = Instance.new("UIPadding")
+    local UIListLayout_2 = Instance.new("UIListLayout")
+    local Search = Instance.new("Frame")
+    local UICorner_3 = Instance.new("UICorner")
+    local ImageLabel = Instance.new("ImageLabel")
+    local Bar = Instance.new("TextBox")
+    local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+    local UIGradient_4 = Instance.new("UIGradient")
+
+    ui.Name = name
+    ui.Parent = parent
+    ui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+    Background.Name = "Background"
+    Background.Parent = ui
+    Background.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    Background.BorderColor3 = Color3.fromRGB(0, 0, 0)
+    Background.BorderSizePixel = 0
+    Background.Position = UDim2.new(0.4, 0, 0.3, 0)
+    Background.Size = UDim2.new(0, 655, 0, 325)
+    Background.ZIndex = 5
+
+    UICorner.CornerRadius = UDim.new(0, 15)
+    UICorner.Parent = Background
+
+    Sections.Name = "Sections"
+    Sections.Parent = Background
+    Sections.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    Sections.BorderColor3 = Color3.fromRGB(0, 0, 0)
+    Sections.BorderSizePixel = 0
+    Sections.Position = UDim2.new(-0.00157281861, 0, 0, 0)
+    Sections.Size = UDim2.new(0.283998042, 0, 1, 0)
+
+    UICorner_2.CornerRadius = UDim.new(0, 15)
+    UICorner_2.Parent = Sections
+
+    CornerFix.Name = "CornerFix"
+    CornerFix.Parent = Sections
+    CornerFix.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    CornerFix.BorderColor3 = Color3.fromRGB(0, 0, 0)
+    CornerFix.BorderSizePixel = 0
+    CornerFix.Position = UDim2.new(0.918615103, 0, 0, 0)
+    CornerFix.Size = UDim2.new(0.0813859329, 0, 1, 0)
+
+    UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(37, 34, 45)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(35, 33, 43))}
+    UIGradient.Rotation = -94
+    UIGradient.Parent = CornerFix
+
+    real_sections.Name = "real_sections"
+    real_sections.Parent = Sections
+    real_sections.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    real_sections.BackgroundTransparency = 1.000
+    real_sections.BorderColor3 = Color3.fromRGB(0, 0, 0)
+    real_sections.BorderSizePixel = 0
+    real_sections.Position = UDim2.new(0.249553874, 0, 0.170943886, 0)
+    real_sections.Size = UDim2.new(0, 107, 0, 230)
+    real_sections.ZIndex = 5
+
+    UIListLayout.Parent = real_sections
+    UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+    UIListLayout.Padding = UDim.new(0.0450000018, 0)
+
+    UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(39, 36, 47)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(33, 31, 40))}
+    UIGradient_2.Rotation = -113
+    UIGradient_2.Parent = Sections
+
+    logo.Name = "logo"
+    logo.Parent = Sections
+    logo.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    logo.BackgroundTransparency = 1.000
+    logo.BorderColor3 = Color3.fromRGB(0, 0, 0)
+    logo.BorderSizePixel = 0
+    logo.Position = UDim2.new(0.710735202, 0, 0.664615393, 0)
+    logo.Size = UDim2.new(0, 100, 0, 100)
+    logo.ZIndex = 2
+    logo.Image = "rbxassetid://17441779136"
+
+    UIGradient_3.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.51, 1.00), NumberSequenceKeypoint.new(1.00, 1.00)}
+    UIGradient_3.Parent = logo
+
+    Title.Name = "Title"
+    Title.Parent = Background
+    Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    Title.BackgroundTransparency = 1.000
+    Title.BorderColor3 = Color3.fromRGB(0, 0, 0)
+    Title.BorderSizePixel = 0
+    Title.Position = UDim2.new(0.0269060303, 0, 0.035999544, 0)
+    Title.Size = UDim2.new(0, 70, 0, 20)
+    Title.Font = Enum.Font.GothamBold --// game:GetObjects('rbxassetid://11702779517')[1]
+    Title.Text = name
+    Title.TextColor3 = Color3.fromRGB(231, 231, 243)
+    Title.TextScaled = true
+    Title.TextSize = 14.000
+    Title.TextWrapped = true
+
+    local UIGradient = Instance.new("UIGradient")
+
+    UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(141, 130, 170)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(208, 196, 252))}
+    UIGradient.Offset = Vector2.new(0.00999999978, 0)
+    UIGradient.Rotation = -113
+    UIGradient.Parent = Title
+
+    local function gradientMover()
+        local script = Instance.new('LocalScript', UIGradient)
+        local animation_done = true
+
+        while animation_done do
+            animation_done = false
+
+            game:GetService('TweenService'):Create(UIGradient, TweenInfo.new(3, Enum.EasingStyle.Quad), {
+                Rotation = 53
+            }):Play()
+
+            task.wait(3)
+
+            game:GetService('TweenService'):Create(UIGradient, TweenInfo.new(3, Enum.EasingStyle.Quad), {
+                Rotation = -180
+            }):Play()
+
+            task.wait(3)
+            animation_done = true
+        end
+        
+    end
+    coroutine.wrap(gradientMover)()
+
+    functions_frame.Name = "functions_frame"
+    functions_frame.Parent = Background
+    functions_frame.Active = true
+    functions_frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    functions_frame.BackgroundTransparency = 1.000
+    functions_frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+    functions_frame.BorderSizePixel = 0
+    functions_frame.Position = UDim2.new(0.31407398, 0, 0.170943886, 0)
+    functions_frame.Size = UDim2.new(0, 397, 0, 254)
+    functions_frame.ScrollBarThickness = 0
+
+    UIPadding.Parent = functions_frame
+    UIPadding.PaddingTop = UDim.new(0.00999999978, 0)
+
+    UIListLayout_2.Parent = functions_frame
+    UIListLayout_2.HorizontalAlignment = Enum.HorizontalAlignment.Center
+    UIListLayout_2.Padding = UDim.new(0.0199999996, 0)
+
+    Search.Name = "Search"
+    Search.Parent = Background
+    Search.BackgroundColor3 = Color3.fromRGB(33, 32, 40)
+    Search.BorderColor3 = Color3.fromRGB(0, 0, 0)
+    Search.BorderSizePixel = 0
+    Search.Position = UDim2.new(0.775426149, 0, 0.0338461548, 0)
+    Search.Size = UDim2.new(0, 120, 0, 35)
+    Search.ZIndex = 10
+
+    UICorner_3.CornerRadius = UDim.new(0, 15)
+    UICorner_3.Parent = Search
+
+    ImageLabel.Parent = Search
+    ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    ImageLabel.BackgroundTransparency = 1.000
+    ImageLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
+    ImageLabel.BorderSizePixel = 0
+    ImageLabel.Position = UDim2.new(0.0675648972, 0, 0.244624332, 0)
+    ImageLabel.Size = UDim2.new(0, 17, 0, 17)
+    ImageLabel.ZIndex = 12
+    ImageLabel.Image = "rbxassetid://17441779136"
+    ImageLabel.ImageTransparency = 0.450
+
+    Bar.Name = "Bar"
+    Bar.Parent = Search
+    Bar.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    Bar.BackgroundTransparency = 1.000
+    Bar.BorderColor3 = Color3.fromRGB(0, 0, 0)
+    Bar.BorderSizePixel = 0
+    Bar.Position = UDim2.new(0.275000006, 0, 0.0199957713, 0)
+    Bar.Size = UDim2.new(0, 87, 0, 34)
+    Bar.SizeConstraint = Enum.SizeConstraint.RelativeXX
+    Bar.ZIndex = 7
+    Bar.ClearTextOnFocus = false
+    Bar.Font = Enum.Font.GothamBold --// game:GetObjects('rbxassetid://11702779517')[1]
+    Bar.PlaceholderText = "Search"
+    Bar.Text = ""
+    Bar.TextColor3 = Color3.fromRGB(231, 231, 243)
+    Bar.TextSize = 14.000
+    Bar.TextTransparency = 0.450
+    Bar.TextWrapped = true
+    Bar.TextXAlignment = Enum.TextXAlignment.Left
+
+    local function bar_handler()
+        local script = Instance.new('LocalScript', Bar)
+
+        Bar:GetPropertyChangedSignal("Text"):Connect(function()
+            if Bar.Text:len() > 1 then
+                animate_elements(1.35)
+
+                for _, element in functions_frame:GetDescendants() do
+
+                    if element:IsA("Frame") and element:FindFirstChild("Title") then
+
+                        if string.find(element.Title.Text:lower(), Bar.Text:lower()) then
+                            table.insert(search_table, element.Name)
+                        else
+
+                            if table.find(search_table, element.Name) then
+                                table.remove(search_table, table.find(search_table, element.Name))
+                            end
+
+                        end
+                    end
+
+                end
+            else
+                table.clear(search_table)
+            end
+        end)
+    end
+
+    coroutine.wrap(bar_handler)()
+
+    UIAspectRatioConstraint.Parent = Background
+    UIAspectRatioConstraint.AspectRatio = 1.850
+
+    UIGradient_4.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(30, 28, 39)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(24, 22, 31))}
+    UIGradient_4.Rotation = -113
+    UIGradient_4.Parent = Background
+
+    tween_service:Create(UIAspectRatioConstraint, TweenInfo.new(1.65, Enum.EasingStyle.Exponential), {AspectRatio = 1.850}):Play()
+    task.delay(0.25, function()
+        tween_service:Create(Title, TweenInfo.new(1.85, Enum.EasingStyle.Exponential), {TextTransparency = 0}):Play()
+    end)
+
+    task.defer(function()
+        if is_draggable then
+            local function WOFUCY_fake_script() -- Background.drag 
+                local script = Instance.new('LocalScript', Background)
+
+                local UserInputService = game:GetService("UserInputService")
+                local runService = (game:GetService("RunService"));
+
+                local gui = script.Parent
+
+                local dragging
+                local dragInput
+                local dragStart
+                local startPos
+
+                local function Lerp(a, b, m)
+                    return a + (b - a) * m
+                end;
+
+                local lastMousePos
+                local lastGoalPos
+                local DRAG_SPEED = (9);
+
+                local function Update(dt)
+                    if not (startPos) then return end;
+                    if not (dragging) and (lastGoalPos) then
+                        gui.Position = UDim2.new(startPos.X.Scale, Lerp(gui.Position.X.Offset, lastGoalPos.X.Offset, dt * DRAG_SPEED), startPos.Y.Scale, Lerp(gui.Position.Y.Offset, lastGoalPos.Y.Offset, dt * DRAG_SPEED))
+                        return 
+                    end;
+
+                    local delta = (lastMousePos - UserInputService:GetMouseLocation())
+                    local xGoal = (startPos.X.Offset - delta.X);
+                    local yGoal = (startPos.Y.Offset - delta.Y);
+                    lastGoalPos = UDim2.new(startPos.X.Scale, xGoal, startPos.Y.Scale, yGoal)
+                    gui.Position = UDim2.new(startPos.X.Scale, Lerp(gui.Position.X.Offset, xGoal, dt * DRAG_SPEED), startPos.Y.Scale, Lerp(gui.Position.Y.Offset, yGoal, dt * DRAG_SPEED))
+                end;
+
+                gui.InputBegan:Connect(function(input)
+                    if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+                        dragging = true
+                        dragStart = input.Position
+                        startPos = gui.Position
+                        lastMousePos = UserInputService:GetMouseLocation()
+
+                        input.Changed:Connect(function()
+                            if input.UserInputState == Enum.UserInputState.End then
+                                dragging = false
+                            end
+                        end)
+                    end
+                end)
+
+                gui.InputChanged:Connect(function(input)
+                    if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+                        dragInput = input
+                    end
+                end)
+
+                runService.Heartbeat:Connect(Update)
+            end
+
+            coroutine.wrap(WOFUCY_fake_script)()
+        end
+    end)
+
+    task.defer(function()
+        user_input.InputEnded:Connect(function(input, is_event)
+            if not is_event and (input.KeyCode == Enum.KeyCode.LeftControl or input.KeyCode == Enum.KeyCode.Insert)  then
+
+                if not ui.Enabled then
+                    nurysium:open()
+
+                    task.delay(0.15, function()
+                        ui.Enabled = true
+                    end)
+                else
+                    nurysium:close()
+
+                    task.delay(1, function()
+                        ui.Enabled = false
+                    end)
+                end
+            end
+        end)
+    end)
+end
+
+function nurysium: create_section(name: string, imageID: number)
+    task.wait(0.5)
+
+    local Example = Instance.new("TextButton", ui.Background.Sections.real_sections)
+    local ImageLabel = Instance.new("ImageLabel")
+
+    Example.Name = name
+    Example.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    Example.BackgroundTransparency = 1.000
+    Example.BorderColor3 = Color3.fromRGB(0, 0, 0)
+    Example.BorderSizePixel = 0
+    Example.Size = UDim2.new(0, 85, 0, 16)
+    Example.ZIndex = 6
+    Example.Font = Enum.Font.GothamBold --// game:GetObjects('rbxassetid://11702779517')[1]
+    Example.Text = name
+    Example.TextColor3 = Color3.fromRGB(231, 231, 243)
+    Example.TextScaled = true
+    Example.TextSize = 14.000
+    Example.TextWrapped = true
+    Example.TextTransparency = 1
+    Example.TextXAlignment = Enum.TextXAlignment.Left
+
+    tween_service:Create(Example, TweenInfo.new(1.35, Enum.EasingStyle.Exponential), {TextTransparency = 0.45}):Play()
+
+    Example.MouseButton1Up:Connect(function()
+        ui_data.current_section = Example.Text
+
+        for _, section in ui.Background.Sections.real_sections:GetChildren() do
+
+            if section:IsA("TextButton") then
+                if section.Text:match(name) then
+
+                    local click_sound = Instance.new("Sound", game:GetService("SoundService"))
+
+                    click_sound.SoundId = "rbxassetid://8816939097"
+                    click_sound:Play()
+
+                    animate_elements(1.65)
+                    
+                    tween_service:Create(section, TweenInfo.new(0.65, Enum.EasingStyle.Exponential), {TextTransparency = 0}):Play()
+                    tween_service:Create(section.ImageLabel, TweenInfo.new(0.65, Enum.EasingStyle.Exponential), {ImageTransparency = 0}):Play()
+
+                else
+                    tween_service:Create(section, TweenInfo.new(0.45, Enum.EasingStyle.Exponential), {TextTransparency = 0.45}):Play()
+                    tween_service:Create(section.ImageLabel, TweenInfo.new(0.45, Enum.EasingStyle.Exponential), {ImageTransparency = 0.45}):Play()
+                end
+            end
+
+        end
+    end)
+
+    Example.TouchTap:Connect(function()
+        ui_data.current_section = Example.Text
+
+        for _, section in ui.Background.Sections.real_sections:GetChildren() do
+
+            if section:IsA("TextButton") then
+                if section.Text:match(name) then
+
+                    local click_sound = Instance.new("Sound", game:GetService("SoundService"))
+
+                    click_sound.SoundId = "rbxassetid://8816939097"
+                    click_sound:Play()
+
+                    animate_elements(1.65)
+
+                    tween_service:Create(section, TweenInfo.new(0.45, Enum.EasingStyle.Exponential), {TextTransparency = 0}):Play()
+                    tween_service:Create(section.ImageLabel, TweenInfo.new(0.45, Enum.EasingStyle.Exponential), {ImageTransparency = 0}):Play()
+
+                    if section.Text:match("Settings") then
+                        tween_service:Create(section.ImageLabel, TweenInfo.new(1.45, Enum.EasingStyle.Exponential), {Rotation = 90}):Play()
+
+                        task.delay(4, function()
+                            tween_service:Create(section.ImageLabel, TweenInfo.new(1.45, Enum.EasingStyle.Exponential), {Rotation = 0}):Play()
+                        end)
+                    end
+                else
+                    tween_service:Create(section, TweenInfo.new(0.45, Enum.EasingStyle.Exponential), {TextTransparency = 0.45}):Play()
+                    tween_service:Create(section.ImageLabel, TweenInfo.new(0.45, Enum.EasingStyle.Exponential), {ImageTransparency = 0.45}):Play()
+                end
+            end
+
+        end
+    end)
+
+    ImageLabel.Parent = Example
+    ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    ImageLabel.BackgroundTransparency = 1.000
+    ImageLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
+    ImageLabel.BorderSizePixel = 0
+    ImageLabel.Position = UDim2.new(-0.257435054, 0, 0.0446243286, 0)
+    ImageLabel.Size = UDim2.new(0, 13, 0, 13)
+    ImageLabel.ZIndex = 6
+    ImageLabel.ImageTransparency = 1
+    ImageLabel.Image = `rbxassetid://{imageID}`
+
+    tween_service:Create(ImageLabel, TweenInfo.new(3, Enum.EasingStyle.Exponential), {ImageTransparency = 0.45}):Play()
+end
+
+function nurysium: create_toggle(name: string, section_name: string, callback)
+    task.wait(0.15)
+
+    callback = callback or function() end
+    local toggled = false
+
+    local Example = Instance.new("Frame")
+    local UICorner = Instance.new("UICorner")
+    local UIStroke = Instance.new("UIStroke")
+    local UIGradient = Instance.new("UIGradient")
+    local Hitbox = Instance.new("TextButton")
+    local UIGradient_2 = Instance.new("UIGradient")
+    local Title = Instance.new("TextLabel")
+    local Toggle = Instance.new("Frame")
+    local Dot = Instance.new("Frame")
+    local UICorner_2 = Instance.new("UICorner")
+    local UIStroke_2 = Instance.new("UIStroke")
+    local UICorner_3 = Instance.new("UICorner")
+
+    Example.Name = name
+    Example.Parent = ui.Background["functions_frame"]
+    Example.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    Example.BorderColor3 = Color3.fromRGB(0, 0, 0)
+    Example.BorderSizePixel = 0
+    Example.Position = UDim2.new(0.0428211577, 0, 0.0157480314, 0)
+    Example.Size = UDim2.new(0, 380, 0, 43)
+    Example.ZIndex = 10
+
+    UICorner.CornerRadius = UDim.new(0, 10)
+    UICorner.Parent = Example
+
+    UIStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+    UIStroke.Color = Color3.fromRGB(255, 255, 255)
+    UIStroke.Thickness = 4
+    UIStroke.Parent = Example
+
+    UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(39, 36, 47)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(46, 43, 56))}
+    UIGradient.Rotation = 36
+    UIGradient.Parent = UIStroke
+
+    Hitbox.Name = "Hitbox"
+    Hitbox.Parent = Example
+    Hitbox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    Hitbox.BackgroundTransparency = 1.000
+    Hitbox.BorderColor3 = Color3.fromRGB(0, 0, 0)
+    Hitbox.BorderSizePixel = 0
+    Hitbox.Size = UDim2.new(1, 0, 1, 0)
+    Hitbox.Font = Enum.Font.SourceSans
+    Hitbox.TextColor3 = Color3.fromRGB(0, 0, 0)
+    Hitbox.TextSize = 1.000
+    Hitbox.TextTransparency = 1.000
+
+    UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(39, 36, 47)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(33, 31, 40))}
+    UIGradient_2.Rotation = -113
+    UIGradient_2.Parent = Example
+
+    Title.Name = "Title"
+    Title.Parent = Example
+    Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    Title.BackgroundTransparency = 1.000
+    Title.BorderColor3 = Color3.fromRGB(0, 0, 0)
+    Title.BorderSizePixel = 0
+    Title.Position = UDim2.new(0.0449240729, 0, 0.275129884, 0)
+    Title.Size = UDim2.new(0, 140, 0, 20)
+    Title.ZIndex = 10
+    Title.Font = Enum.Font.GothamBold --// game:GetObjects('rbxassetid://11702779517')[1]
+    Title.Text = name
+    Title.TextColor3 = Color3.fromRGB(231, 231, 243)
+    Title.TextScaled = true
+    Title.TextSize = 14.000
+    Title.TextWrapped = true
+    Title.TextXAlignment = Enum.TextXAlignment.Left
+
+    Toggle.Name = "Toggle"
+    Toggle.Parent = Example
+    Toggle.BackgroundColor3 = Color3.fromRGB(27, 24, 35)
+    Toggle.BorderColor3 = Color3.fromRGB(0, 0, 0)
+    Toggle.BorderSizePixel = 0
+    Toggle.Position = UDim2.new(0.841389358, 0, 0.279069781, 0)
+    Toggle.Size = UDim2.new(0, 38, 0, 18)
+    Toggle.ZIndex = 15
+
+    Dot.Name = "Dot"
+    Dot.Parent = Toggle
+    Dot.BackgroundColor3 = Color3.fromRGB(37, 35, 48)
+    Dot.BorderColor3 = Color3.fromRGB(0, 0, 0)
+    Dot.BorderSizePixel = 0
+    Dot.Position = UDim2.new(0.149068192, 0, 0.22351414, 0)
+    Dot.Size = UDim2.new(0, 10, 0, 10)
+    Dot.ZIndex = 15
+
+    UICorner_2.CornerRadius = UDim.new(1, 0)
+    UICorner_2.Parent = Dot
+
+    UIStroke_2.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+    UIStroke_2.Color = Color3.fromRGB(40, 39, 45)
+    UIStroke_2.Thickness = 1.7999999523162842
+    UIStroke_2.Parent = Toggle
+
+    UICorner_3.CornerRadius = UDim.new(0, 10)
+    UICorner_3.Parent = Toggle
+
+    game:GetService("RunService").Heartbeat:Connect(function()
+        if not section_name:match(ui_data.current_section) and not table.find(search_table, name)then
+            Example.Visible = false
+        else
+            Example.Visible = true
+        end
+    end)
+
+    Hitbox.MouseButton1Up:Connect(function()
+        toggled = not toggled
+
+        callback(toggled)
+
+        if toggled then
+
+            tween_service:Create(Dot, TweenInfo.new(0.45, Enum.EasingStyle.Exponential, Enum.EasingDirection.InOut), {
+                Position = UDim2.new(0.600, 0, 0.224, 0),
+                BackgroundColor3 = Color3.fromRGB(124, 120, 218)
+            }):Play()
+
+            tween_service:Create(UIStroke_2, TweenInfo.new(0.35, Enum.EasingStyle.Exponential, Enum.EasingDirection.InOut), {
+                Transparency = 0.5,
+                Color = Color3.fromRGB(59, 58, 151)
+            }):Play()
+
+            tween_service:Create(Toggle, TweenInfo.new(0.35, Enum.EasingStyle.Exponential, Enum.EasingDirection.InOut), {
+                BackgroundColor3 = Color3.fromRGB(62, 61, 174)
+            }):Play()
+
+        else
+
+            tween_service:Create(Dot, TweenInfo.new(0.45, Enum.EasingStyle.Exponential, Enum.EasingDirection.InOut), {
+                Position = UDim2.new(0.149, 0, 0.224, 0)
+            }):Play()
+
+            tween_service:Create(Dot, TweenInfo.new(0.45, Enum.EasingStyle.Exponential, Enum.EasingDirection.InOut), {
+                BackgroundColor3 = Color3.fromRGB(37, 35, 48)
+            }):Play()
+
+            tween_service:Create(UIStroke_2, TweenInfo.new(0.35, Enum.EasingStyle.Exponential, Enum.EasingDirection.InOut), {
+                Transparency = 0,
+                Color = Color3.fromRGB(40, 39, 45)
+            }):Play()
+
+            tween_service:Create(Toggle, TweenInfo.new(0.35, Enum.EasingStyle.Exponential, Enum.EasingDirection.InOut), {
+                BackgroundColor3 = Color3.fromRGB(27, 24, 35)
+            }):Play()
+        end
+    end)
+
+    Hitbox.TouchTap:Connect(function()
+        toggled = not toggled
+
+        callback(toggled)
+
+        if toggled then
+
+            tween_service:Create(Dot, TweenInfo.new(0.45, Enum.EasingStyle.Exponential, Enum.EasingDirection.InOut), {
+                Position = UDim2.new(0.600, 0, 0.224, 0),
+                BackgroundColor3 = Color3.fromRGB(124, 120, 218)
+            }):Play()
+
+            tween_service:Create(UIStroke_2, TweenInfo.new(0.35, Enum.EasingStyle.Exponential, Enum.EasingDirection.InOut), {
+                Transparency = 0.5,
+                Color = Color3.fromRGB(59, 58, 151)
+            }):Play()
+
+            tween_service:Create(Toggle, TweenInfo.new(0.35, Enum.EasingStyle.Exponential, Enum.EasingDirection.InOut), {
+                BackgroundColor3 = Color3.fromRGB(62, 61, 174)
+            }):Play()
+
+        else
+
+            tween_service:Create(Dot, TweenInfo.new(0.45, Enum.EasingStyle.Exponential, Enum.EasingDirection.InOut), {
+                Position = UDim2.new(0.149, 0, 0.224, 0)
+            }):Play()
+
+            tween_service:Create(Dot, TweenInfo.new(0.45, Enum.EasingStyle.Exponential, Enum.EasingDirection.InOut), {
+                BackgroundColor3 = Color3.fromRGB(37, 35, 48)
+            }):Play()
+
+            tween_service:Create(UIStroke_2, TweenInfo.new(0.35, Enum.EasingStyle.Exponential, Enum.EasingDirection.InOut), {
+                Transparency = 0,
+                Color = Color3.fromRGB(40, 39, 45)
+            }):Play()
+
+            tween_service:Create(Toggle, TweenInfo.new(0.35, Enum.EasingStyle.Exponential, Enum.EasingDirection.InOut), {
+                BackgroundColor3 = Color3.fromRGB(27, 24, 35)
+            }):Play()
+        end
+    end)
+
+end
+
+return nurysium
